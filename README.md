@@ -1,7 +1,8 @@
 # UAS_NaswaMutiara_23552011185_SistemSmartGorden
 
 Smart Gorden Berbasis ESP32
-
+Nama : Naswa Mutiara
+NIM : 23552011185
 Link Video Demo : https://youtu.be/u03DVq8Cbj8
 
 # 1. Deskripsi
