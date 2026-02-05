@@ -1,8 +1,8 @@
 # UAS_NaswaMutiara_23552011185_SistemSmartGorden
 
-# Smart Gorden Berbasis ESP32
+Smart Gorden Berbasis ESP32
 
-# Link Video Demo : https://youtu.be/u03DVq8Cbj8
+Link Video Demo : https://youtu.be/u03DVq8Cbj8
 
 # 1. Deskripsi
 Proyek ini merupakan sistem smart gorden otomatis yang dapat dikontrol secara manual melalui web dashboard atau jarak jauh melalui MQTT. ESP32 digunakan sebagai controller utama, terhubung ke jaringan WiFi, dan dapat beroperasi dalam STA mode (terhubung ke router) atau AP mode (akses langsung ke ESP32). Sistem juga menampilkan status LED sebagai indikator gorden terbuka.
